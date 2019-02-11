@@ -11,7 +11,7 @@ Dog traits:
   Ear shape
   Face shape
   Temperament
-  Energy level
+  Energy level (Low, medium, high)
   Group
   AKC recognized? (yes/no)
   Purebred? (yes/no)
